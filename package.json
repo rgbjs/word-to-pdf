@@ -1,0 +1,15 @@
+{
+  "name": "word-to-pdf",
+  "version": "1.0.6",
+  "description": "word文档转换pdf",
+  "main": "src/index.js",
+  "author": "feiYu",
+  "license": "MIT",
+  "dependencies": {
+    "console-color-node": "^1.0.1",
+    "libreoffice-convert": "^1.4.1"
+  },
+  "scripts": {
+    "local": "node src/index.js"
+  }
+}

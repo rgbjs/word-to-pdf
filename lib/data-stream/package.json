@@ -1,0 +1,11 @@
+{
+  "name": "data-stream",
+  "version": "1.0.0",
+  "description": "对数据以流的方式进行处理",
+  "main": "index.js",
+  "author": "feiYu",
+  "license": "MIT",
+  "dependencies": {
+    "console-color-node": "^1.0.1"
+  }
+}
